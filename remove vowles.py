@@ -5,5 +5,5 @@ def remove_vowels(s1):
         if i in ('a', 'e', 'i', 'o', 'u'):
             i = ''
             output = output + i
-    print (output)
+    print(output)
 remove_vowels('welcome')
