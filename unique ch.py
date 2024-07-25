@@ -8,4 +8,4 @@ for i in s:
 print(d)
 for i in s:
     if (d [i] == 1) :
-        print("i")  
+        print(i)
